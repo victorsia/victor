@@ -1,0 +1,113 @@
+ Subjects to learn
+=================
+1.  Html 5
+2.  Advanced JavaScript
+3.  Typescript
+4.  Javascript ES-6
+5.  jQuery
+6.  CSS
+7.  CSS3 / SASS
+8.  NodeJS
+9.  React
+10. React Native
+11. Restful API
+12. GitHub
+13. MongoDB
+14. Jira
+
+
+1. Html 5
+----------
+https://www.udemy.com/course/learnhtml/
+https://www.lynda.com/HTML-tutorials/HTML5-Structure-Syntax-Semantics/182177-2.html
+
+
+2. Advanced JavaScript
+-----------------------
+https://www.udemy.com/course/javascript-full-course-beginner-to-expert/
+https://www.lynda.com/JavaScript-tutorials/JavaScript-Patterns/758642-2.html
+https://www.lynda.com/JavaScript-tutorials/JavaScript-design-patterns/758642/5001993-4.html
+https://www.lynda.com/JavaScript-tutorials/Vanilla-JavaScript-Ajax-Fetch/2807868-2.html
+https://www.lynda.com/JavaScript-tutorials/JavaScript-Async/794146-2.html
+https://www.lynda.com/JavaScript-tutorials/JavaScript-Modern-Browser-APIs/784304-2.html
+https://www.lynda.com/JavaScript-tutorials/Learning-Functional-Programming-JavaScript/585272-2.html
+https://www.lynda.com/JavaScript-tutorials/JavaScript-JSON/114901-2.html
+https://www.lynda.com/Developer-tutorials/JavaScript-and-AJAX/114900-2.html
+
+
+3. Typescript
+--------------
+https://www.lynda.com/TypeScript-tutorials/Learning-TypeScript/5025110-2.html
+https://www.lynda.com/Typescript-tutorials/TypeScript-Essential-Training/421807-2.html
+
+
+4. Javascript ES-6
+-------------------
+https://www.lynda.com/JavaScript-tutorials/Learning-ECMAScript-6/424003-2.html
+
+
+5. Jquery
+---------
+https://www.lynda.com/jQuery-tutorials/jQuery-Essential-Training/494389-2.html
+
+
+6. CSS
+------
+https://www.lynda.com/CSS-tutorials/CSS-Essential-Training-1/569190-2.html
+https://www.lynda.com/CSS-tutorials/CSS-Essential-Training-2/569189-2.html
+https://www.lynda.com/CSS-tutorials/CSS-Essential-Training-3/609030-2.html
+
+
+7. CSS3 / SASS
+---------------
+https://www.lynda.com/CSS-tutorials/CSS-Transforms-Transitions/674608-2.html
+https://www.lynda.com/CSS-tutorials/CSS-Animation/439683-2.html
+https://www.lynda.com/CSS-tutorials/CSS-Advanced-Layouts-Grid/622088-2.html
+https://www.lynda.com/Sass-tutorials/Sass-Essential-Training/375925-2.html
+https://www.lynda.com/CSS-tutorials/CSS-Sass-Converting-Existing-Site/434463-2.html
+https://www.lynda.com/CSS-tutorials/Responsive-CSS-Workflow-Sass-Bourbon-Susy/536431-2.html
+
+
+8. NodeJS
+----------
+https://www.lynda.com/learning-paths/Web/become-a-nodejs-developer
+https://www.lynda.com/Node-js-tutorials/Node-js-Essential-Training-Part-I-2019-REVISION/5016729-2.html
+https://www.lynda.com/Node-js-tutorials/Learning-Node-js/612195-2.html
+
+
+9. React
+---------
+https://www.lynda.com/React-js-tutorials/Learning-React-js/800214-2.html
+https://www.lynda.com/React-js-tutorials/React-js-Essential-Training/761961-2.html
+https://www.lynda.com/React-js-tutorials/React-js-Building-Interface/808689-2.html
+
+
+10. React Native
+----------------
+https://www.lynda.com/React-Native-tutorials/React-Native-Essential-Training/560343-2.html
+https://www.lynda.com/React-js-tutorials/Learning-React-Native/577374-2.html
+https://www.lynda.com/React-Native-tutorials/React-Native-Building-Mobile-Apps/645061-2.html
+
+
+11. Restful API
+---------------
+https://www.lynda.com/Web-Development-tutorials/Learning-REST-APIs/651230-2.html
+https://www.lynda.com/Node-js-tutorials/Building-RESTful-Web-APIs-Node-js-Express/633869-2.html
+
+
+12. GitHub
+----------
+https://www.lynda.com/GitHub-tutorials/GitHub-Essential-Training/769293-2.html
+https://www.lynda.com/GitHub-tutorials/Version-control-collaboration-GitHub/769292/2810307-4.html
+
+
+13. MongoDB
+-----------
+https://www.lynda.com/Moodle-tutorials/Learning-MongoDB/573253-2.html
+https://www.lynda.com/Node-js-tutorials/Databases-Node-js-Developers/642499-2.html
+
+
+14. Jira
+--------
+https://www.lynda.com/JIRA-tutorials/Learning-Jira-Software/791351-2.html
+
